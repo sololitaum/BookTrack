@@ -25,7 +25,6 @@
 - Swift 5.0+  
 
 ### 2️⃣ Clone the Repository  
-```bash
 git clone https://github.com/your-username/MyBookTracker.git
 cd MyBookTracker
 
@@ -54,29 +53,6 @@ cd MyBookTracker
 ---
 
 ## 🛠️ Technologies Used  
-- **SwiftUI** – Modern UI framework for building iOS apps.  
+- **SwiftUI** –  UI framework for building iOS apps.  
 - **SwiftData** – Handles book storage and retrieval.  
 - **MVVM Architecture** – Clean, scalable code structure.  
-
----
-
-## 🤝 Contributing  
-Want to improve this app? Contributions are welcome!  
-
-1. **Fork the repo**  
-2. **Create a new branch** (`feature/new-feature`)  
-3. **Commit changes** (`git commit -m "Added a new feature"`)  
-4. **Push to branch** (`git push origin feature/new-feature`)  
-5. **Open a Pull Request**  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📩 Contact  
-👤 **Solo Pylypiv**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)  
